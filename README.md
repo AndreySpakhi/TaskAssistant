@@ -7,3 +7,6 @@ ____
 - cd frontend
 - npm start
 - type localhost:3000 in your browser
+____
+#### NEED TO DO
+- hide "complete" button for completed tasks
